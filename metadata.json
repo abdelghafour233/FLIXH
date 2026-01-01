@@ -1,0 +1,7 @@
+{
+  "name": "Berrima Store Builder",
+  "description": "A luxury e-commerce platform with integrated Gemini AI for product management, real-time editing, and sales analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
